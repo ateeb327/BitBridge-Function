@@ -64,8 +64,7 @@ The solution introduces an Azure Function as an authentication broker between Bi
 
 ### Architecture Diagram
 
-![Architecture Diagram]
-(./images/architecture-diagram.png)
+![Architecture Diagram](/images/architecture-diagram.png)
 *Architecture diagram showing the flow between Bitbucket, Azure Function, Management App, Project-Specific Apps, and Azure Resources*
 
 ### Workflow Overview
@@ -899,7 +898,7 @@ This solution is designed to be cost-effective for typical usage patterns.
 
 ---
 ## Additional Images and Screenshots
-![Logs of Azure Function BitBridge](./images/function logs.png)
+![Logs of Azure Function BitBridge](/images/function-logs.png)
 
 ## Conclusion
 
