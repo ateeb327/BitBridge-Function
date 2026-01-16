@@ -1,4 +1,4 @@
-<h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">👨‍💻Author: Muhammmad Ateeb Aslam (DevOps Engineer)</h1>
+<h1 style="font-family: 'poppins'; font-weight: bold; color: Green;">BitBridge: BitBucket-Azure Secure Authentication</h1>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-red?style=for-the-badge&logo=github)](https://github.com/ateeb327)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-yellow?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-ateeb-aslam/)
